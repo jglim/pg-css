@@ -1,0 +1,21 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("paulgraham.com") 
+{
+
+  font[face="verdana"]
+  {
+    font-family: Georgia !important;
+    font-size: 20px !important;
+    line-height: 1.6em;
+    letter-spacing: 0.015em;
+    color: #444;
+  }
+  
+  table[width="455"]
+  {
+    margin: 0 calc(50% - 300px) !important;
+    width: 600px !important;
+  }
+
+}
